@@ -20,9 +20,9 @@ public class Main {
         }
 
         if (is) {
-            System.out.println(checkIsPrime + " is not a prime number");
+            System.out.println(checkIsPrime + " is  a prime number");
         } else {
-            System.out.println(checkIsPrime + " is a prime number");
+            System.out.println(checkIsPrime + " is not a prime number");
 
         }
 
