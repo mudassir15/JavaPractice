@@ -33,7 +33,10 @@ class main  {
                 System.out.println(m3);
             }
             System.out.println("ended...");
+ for(int[] m2:a2){
 
+            for(int m3:m2){
+               
         }
 
 
