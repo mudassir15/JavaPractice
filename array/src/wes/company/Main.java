@@ -14,6 +14,7 @@ public class Main {
             sample [i]= i;
          for (i=0; i<10;i++)
             System.out.println("This is sample [ "+ i +" ]:"  + sample [i] );
+        //end do my assig
 
 
     }
