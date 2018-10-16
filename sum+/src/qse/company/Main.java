@@ -17,7 +17,13 @@ public class Main {
 
 
 
+    }ct *= i;
     }
+        System.out.println("sum is" +sum);
+        System.out.println("fact is" +fact);
+
+
+
 
 
 }
