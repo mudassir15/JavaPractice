@@ -27,6 +27,10 @@ public class Main {
             System.out.println("FAIL" );}
                 if (marks >45 && marks<50){
                     System.out.println("you are higher end of FAIL");
+        }& marks < 49) {
+            System.out.println("FAIL" );}
+                if (marks >45 && marks<50){
+                    System.out.println("you are higher end of FAIL");
         }
     }
 
